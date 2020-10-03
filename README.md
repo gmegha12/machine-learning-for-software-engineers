@@ -20,7 +20,7 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 
 ## What is it?
 
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
+This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer that means if you are not even from CS background then also this study plan ensures that at the end of this plan you will be able to understand and solve machine learning related real world problems.
 
 My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
 This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
